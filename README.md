@@ -10,7 +10,7 @@
 ### Soon to be supported
 <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple" />
 
-Windows version is to be released sooner than iOS, since iOS App Development demands:
+**Windows version** is to be released sooner than iOS, since iOS App Development demands:
 1. A Mac.
 2. $99/year Apple Developer Account.
 3. A physical iPhone because the Blocking API does not work on a Simulator.
