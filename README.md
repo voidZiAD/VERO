@@ -10,6 +10,12 @@
 ### Soon to be supported
 <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple" />
 
+### Details
+
+We used the following frameworks/tools/services to create this app.
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,firebase,gemini" />
+
 ### Transparency
 
 This project is only partially open source to protect sensitive information.\
