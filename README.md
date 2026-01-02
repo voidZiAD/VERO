@@ -19,6 +19,6 @@ We used the following frameworks/tools/services to create this app.
 ### Transparency
 
 This project is only partially open source to protect sensitive information.\
-<img width="15" height="15" src="https://go-skill-icons.vercel.app/api/icons?i=firebase" /> We use Firestore, Firebase Authentication and heavy optimization for authentication to maximize user count while also not going over firebase daily free tier limits. This is a student project, and only slightly funded.
+<img width="15" height="15" src="https://go-skill-icons.vercel.app/api/icons?i=firebase" /> We use Firestore, Firebase Authentication and heavy optimization for authentication to maximize user count while also not going over firebase daily free tier limits. This is a student project, and is only slightly funded.
 
 <img width="420" height="140" alt="image" src="https://github.com/user-attachments/assets/58b0f79d-5f18-4307-adff-92ce4084dcb6" />
